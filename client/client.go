@@ -9,7 +9,7 @@ import (
 	"net"
 	"time"
 
-	c "local/cluster"
+	c "../config"
 )
 
 var (

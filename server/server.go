@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	c "local/cluster"
+	c "../config"
 
 	"github.com/gin-gonic/gin"
 )

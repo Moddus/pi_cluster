@@ -1,5 +1,5 @@
 // Package main provides ...
-package cluster
+package config
 
 const (
 	G_UDP_PREFIX        = "4b8c608f27f76d4bad67aaead8e68bcb710de01f-PI_CLUSTER"
