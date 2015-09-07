@@ -65,6 +65,6 @@ func broadcast() {
 		if err != nil {
 			log.Panicf("udp broadcast failed cause %v", err)
 		}
-		time.Sleep(500 * time.Millisecond)
+		time.Sleep(30 * time.Second)
 	}
 }
